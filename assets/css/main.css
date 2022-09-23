@@ -29,6 +29,21 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+/*
+css classes NEW
+*/
+
+.profile-section {
+	margin-bottom: 30px;
+}
+
+.section-title {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+/**/
+
 body {
 	line-height: 1;
 }
@@ -673,20 +688,7 @@ input, select, textarea {
 			flex-grow:1;
 		  } */
 		
-		/*
-		css classes NEW
-		*/
 
-		.profile-section {
-			margin-bottom: 30px;
-		}
-		
-		.section-title {
-			font-size: 20px;
-			font-weight: bold;
-		}
-
-		/**/
 
 		.image.left, .image.right {
 			max-width: 40%;
