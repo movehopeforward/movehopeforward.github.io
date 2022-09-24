@@ -1344,7 +1344,8 @@ input, select, textarea {
 			border-top-width: 1px;
 			border-bottom-width: 1px; */
 			max-width: 100%;
-			padding-top: 125px;
+			/* AW: padding above Move Hope Forward box */
+			padding-top: 225px;
 		}
 
 			#header .content .inner {
@@ -1359,6 +1360,8 @@ input, select, textarea {
 				padding: 3rem 2rem;
 				max-height: 40rem;
 				overflow: hidden;
+				/*AW: adding border around Move Hope Forward */
+				border: solid 1px #ffffff;
 			}
 
 				#header .content .inner > :last-child {
@@ -1401,7 +1404,8 @@ input, select, textarea {
 					height: 2.75rem;
 					line-height: 2.75rem;
 					padding: 0 1.25rem 0 1.45rem;
-					text-transform: uppercase;
+					/* AW - removing making names uppercase */
+					/* text-transform: uppercase; */
 					letter-spacing: 0.2rem;
 					/* AW: size of names */
 					font-size: 1.5rem;
