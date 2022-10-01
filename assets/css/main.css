@@ -1363,7 +1363,7 @@ input, select, textarea {
 				max-height: 40rem;
 				overflow: hidden;
 				/*AW: adding border around Move Hope Forward */
-				border: solid 1px #ffffff;
+				/* border: solid 1px #ffffff; */
 			}
 
 				#header .content .inner > :last-child {
