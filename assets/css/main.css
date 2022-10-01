@@ -1345,9 +1345,9 @@ input, select, textarea {
 			border-color: #ffffff;
 			border-top-width: 1px;
 			border-bottom-width: 1px; */
-			max-width: 100%;
+			max-width: 75%;
 			/* AW: padding above Move Hope Forward box */
-			padding-top: 225px;
+			padding-top: 350px;
 		}
 
 			#header .content .inner {
