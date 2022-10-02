@@ -1194,8 +1194,8 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/test-candidates.jpg");
-			background-position: center center;
+			background-image: url("../../images/photo-3-full.jpg");
+			/* background-position: center center; */
 			background-attachment: fixed;
 			background-size: cover;
 			background-repeat: no-repeat;
