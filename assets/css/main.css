@@ -1199,7 +1199,7 @@ input, select, textarea {
 			background-size: cover;
 			background-repeat: no-repeat;
 			/* AW testing fix background image */
-			background-size:100% auto;
+			background-size: cover;
 			z-index: 1;
 		}
 
