@@ -1195,11 +1195,10 @@ input, select, textarea {
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			background-image: url("../../images/test-candidates.jpg");
-			background-position: center;
+			background-position: center center;
+			background-attachment: fixed;
 			background-size: cover;
 			background-repeat: no-repeat;
-			/* AW testing fix background image */
-			background-size: cover;
 			z-index: 1;
 		}
 
